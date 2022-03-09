@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/wallace/Documentos/Desafios/Docker-WebAPI/Docker-WebApi/Docker-WebApi.csproj": {}
+    "/home/wallace/Documentos/Desafios/Docker-WebAPI/Docker-WebApi.csproj": {}
   },
   "projects": {
-    "/home/wallace/Documentos/Desafios/Docker-WebAPI/Docker-WebApi/Docker-WebApi.csproj": {
+    "/home/wallace/Documentos/Desafios/Docker-WebAPI/Docker-WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/wallace/Documentos/Desafios/Docker-WebAPI/Docker-WebApi/Docker-WebApi.csproj",
+        "projectUniqueName": "/home/wallace/Documentos/Desafios/Docker-WebAPI/Docker-WebApi.csproj",
         "projectName": "Docker-WebApi",
-        "projectPath": "/home/wallace/Documentos/Desafios/Docker-WebAPI/Docker-WebApi/Docker-WebApi.csproj",
+        "projectPath": "/home/wallace/Documentos/Desafios/Docker-WebAPI/Docker-WebApi.csproj",
         "packagesPath": "/home/wallace/.nuget/packages/",
-        "outputPath": "/home/wallace/Documentos/Desafios/Docker-WebAPI/Docker-WebApi/obj/",
+        "outputPath": "/home/wallace/Documentos/Desafios/Docker-WebAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/wallace/.nuget/NuGet/NuGet.Config"
